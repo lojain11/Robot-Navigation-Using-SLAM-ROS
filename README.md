@@ -21,3 +21,8 @@ add these commands:
 
 ![EA56B334-7882-40EB-A189-BA70EAB7E2C9](https://user-images.githubusercontent.com/87448729/127642261-9d8eb475-9186-461e-83b4-704ac06adfac.jpeg)
 
+“ TurtleBot3 World “
+-export TURTLEBOT3_MODEL=waffle
+-roslaunch turtlebot3_gazebo turtlebot3_world.launch
+
+
