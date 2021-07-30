@@ -16,5 +16,8 @@ add these commands:
 -cd ~/catkin_ws && catkin_make
 -Then write cd or open new terminal and write source ~/catkin_ws/devel/setup.bash or use echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 "Empty world with a robot called "burger":
--export TURTLEBOT3_MODEL=burger
+-export TURTLEBOT3_MODEL=burgert
 -roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
+
+9AE15EB8-C172-42DA-BE82-AFE746A0A29A.jpeg
+
