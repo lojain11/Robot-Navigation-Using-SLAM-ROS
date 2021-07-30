@@ -26,6 +26,10 @@ add these commands:
 -roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 ![FC01F77B-0F2D-4648-A79C-0B328578A182](https://user-images.githubusercontent.com/87448729/127642669-8ce33118-da5c-49b0-b744-983ee3ab44cb.jpeg)
+“ TurtleBot3 House”
+-export TURTLEBOT3_MODEL=waffle_pi
+-roslaunch turtlebot3_gazebo turtlebot3_house.launch
+
 
 
 
