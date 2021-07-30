@@ -133,6 +133,11 @@ add these commands:
 
 ![3400C88D-43F3-48B3-B139-F8DFDF981E22](https://user-images.githubusercontent.com/87448729/127649549-3366471b-8a44-42ae-aced-e78a0f3c8e6f.jpeg)
 
+
+
+![68A592A7-A2CA-4A78-9239-03C806C9338C](https://user-images.githubusercontent.com/87448729/127650366-8f41f502-c421-4a3e-ae37-e984996a3e19.jpeg)
+
+
 rosrun map_server map_saver -f ~/map 
 
 Task is done 👍🏼.
