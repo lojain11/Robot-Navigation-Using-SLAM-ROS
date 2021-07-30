@@ -97,6 +97,45 @@ add these commands:
 
 
 ![1950C9BB-AECC-4EB5-B8D6-FFE8166E720A](https://user-images.githubusercontent.com/87448729/127643129-5371f9f2-c6dc-48df-8a8a-043f8c29876b.jpeg)
+"Launch Simulation World"
+
+
+-export TURTLEBOT3_MODEL=burger
+
+
+
+-roslaunch turtlebot3_gazebo turtlebot3_world.launch
+
+
+
+
+“Run SLAM Node"
+
+
+
+-export TURTLEBOT3_MODEL=burger
+
+
+
+-roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
+
+
+
+"Run Teleoperation Node"
+
+
+
+-export TURTLEBOT3_MODEL=burger
+
+
+
+-roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+
+
+
+
+
+
 
 
 
