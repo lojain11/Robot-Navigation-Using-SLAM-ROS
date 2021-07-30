@@ -131,6 +131,15 @@ add these commands:
 
 -roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
+![3400C88D-43F3-48B3-B139-F8DFDF981E22](https://user-images.githubusercontent.com/87448729/127649549-3366471b-8a44-42ae-aced-e78a0f3c8e6f.jpeg)
+
+rosrun map_server map_saver -f ~/map 
+
+Task is done 👍🏼.
+
+
+
+
 
 
 
