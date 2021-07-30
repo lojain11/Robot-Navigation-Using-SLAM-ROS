@@ -19,5 +19,5 @@ add these commands:
 -export TURTLEBOT3_MODEL=burgert
 -roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 
-9AE15EB8-C172-42DA-BE82-AFE746A0A29A.jpeg
+![Screenshot from 2021-07-16 19-22-43](https://user-images.githubusercontent.com/87448729/126088335-4686cd84-9b14-4253-8ea0-5513d947b21d.png)
 
